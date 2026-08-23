@@ -1,6 +1,5 @@
-streamlit
-numpy
-opencv-python
-matplotlib
-pandas 
-scipy
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pillow>=10,<13
+scipy>=1.12,<2
+streamlit>=1.40,<2

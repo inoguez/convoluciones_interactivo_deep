@@ -1,0 +1,32 @@
+{
+  "Personalizado - diagonal": {
+    "media": 19.09,
+    "desviacion": 60.457,
+    "minimo": 0,
+    "maximo": 255
+  },
+  "Personalizado - paso alto": {
+    "media": 121.539,
+    "desviacion": 68.522,
+    "minimo": 0,
+    "maximo": 255
+  },
+  "Gaussiano": {
+    "media": 122.334,
+    "desviacion": 61.916,
+    "minimo": 15,
+    "maximo": 250
+  },
+  "Sobel X": {
+    "media": 15.375,
+    "desviacion": 48.176,
+    "minimo": 0,
+    "maximo": 255
+  },
+  "Enfoque": {
+    "media": 121.665,
+    "desviacion": 67.677,
+    "minimo": 0,
+    "maximo": 255
+  }
+}
